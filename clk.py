@@ -7,7 +7,10 @@ Harry :  Hey !! Would you like to try my invisibility cloak ??
          Its awesome !!
         
          Prepare to get invisible .....................
-    """)
+    """
+     
+     get yourself a red cloth,thats all you need .
+     )
 
 
 cap = cv2.VideoCapture(0)
